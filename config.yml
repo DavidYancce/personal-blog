@@ -1,0 +1,35 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: David Blog
+theme: "PaperMod"
+
+defaultTheme: ligth
+
+params:
+  ShowCodeCopyButtons: true
+  homeInfoParams:
+    Title: Hola a todos!
+    Content: Hola, mi nombre es David y este es mi blog, en donde hablaré sobre educación, programación y mi vida 😅
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/"
+  cover:
+    responsiveImages: true
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: example.org
+      url: https://example.org
+      weight: 30
