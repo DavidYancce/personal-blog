@@ -25,10 +25,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg"
+    image: "images/devOps/lovesMoney.png"
     alt: "Probando" # alt text
     caption: "Elefante" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
     URL: "https://github.com/<path_to_repo>/content"
@@ -36,4 +36,24 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-Buenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una pruebaBuenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
+Buenas tardes estimados, esto es una prueba
